@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">challenge_ch4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_title">Home</string>
+    <string name="tvTitle">NOTES TITLE</string>
+    <string name="tvContent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque a accumsan est, a euismod justo. Nullam vulputate dolor justo,
+        at luctus libero imperdiet sed. Morbi quis nulla tempor, aliquam felis nec, lacinia augue. Suspendisse pellentesque, nisi id dictum sollicitudin, e
+        x felis sollicitudin lacus, in fermentum tellus sem ac dui. In eleifend dui eget leo ultricies, cursus aliquam lacus faucibus.
+        Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam volutpat scelerisque urna id pharetra</string>
+    <string name="tvWelcome">Welcome, Username</string>
+    <string name="tvLogout">Logout</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="submit">Submit</string>
+    <string name="login">Login</string>
+    <string name="registerHere">Don\'t have an account? Register here\n</string>
+    <string name="PasswordConfirm">Ulangi Password</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="delete">Delete</string>
+</resources>
